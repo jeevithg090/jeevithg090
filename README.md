@@ -38,8 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=jeevithg090&hide_border=true&background=0D1117&stroke=1F2937&ring=2DD4BF&fire=F59E0B&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=5EEAD4&sideLabels=99F6E4&dates=94A3B8" height="170" alt="Total contributions, current streak and longest streak, updated live" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithg090&bg_color=0d1117&color=99f6e4&line=2dd4bf&point=f8fafc&area=true&area_color=2dd4bf&title_color=f8fafc&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days" width="100%" alt="Line graph of contributions over the last 31 days, updated live" />
-
 ## Featured work
 
 <table>
