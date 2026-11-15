@@ -1,5 +1,5 @@
 <a href="https://jeevithg.dev">
-  <img src="./assets/banner.svg" width="100%" alt="Jeevith Gangadhara: AI security, adversarial AI and LLM agents. The model proposes; code and humans decide." />
+  <img src="./assets/header.svg" width="100%" alt="Jeevith Gangadhara: AI security, adversarial AI and LLM agents. The model proposes; code and humans decide." />
 </a>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assets/terminal.svg" width="100%" alt="whoami: final-year BSc Computer Science at the University of Hertfordshire. Focus: agent security, prompt injection, tool permissions, adversarial robustness, AI control and evals. First-author adversarial-ML paper, HTB CPTS, #1 global TraceBash CTF 2026. Working on UofT AI Project X; looking for AI security research." />
+<img src="./assets/whoami.svg" width="100%" alt="whoami: final-year BSc Computer Science at the University of Hertfordshire. Focus: agent security, prompt injection, tool permissions, adversarial robustness, AI control and evals. First-author adversarial-ML paper, HTB CPTS, #1 global TraceBash CTF 2026. Working on UofT AI Project X; looking for AI security research." />
 
 ## By the numbers
 
