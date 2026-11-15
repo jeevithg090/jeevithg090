@@ -1,33 +1,30 @@
 <a href="https://jeevithg.dev">
-  <img src="./assets/banner.svg" width="100%" alt="Jeevith Gangadhara: AI security, adversarial ML and LLM agents. The model proposes; code and humans decide." />
+  <img src="./assets/banner.svg" width="100%" alt="Jeevith Gangadhara: AI security, adversarial AI and LLM agents. The model proposes; code and humans decide." />
 </a>
 
 <p align="center">
   <a href="https://jeevithg.dev"><img src="https://img.shields.io/badge/jeevithg.dev-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: jeevithg.dev" /></a>
   <a href="https://www.linkedin.com/in/jeevith-gangadhara-782b21311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:g.jeevith090@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/HTB-CPTS_certified-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box CPTS certified" />
-  <img src="https://img.shields.io/badge/TraceBash_CTF_2026-%231_global-F59E0B?style=for-the-badge" alt="TraceBash CTF 2026: 1st place globally" />
 </p>
 
-<h3 align="center">I work where offensive security meets machine learning,<br/>and I build AI agents that ask before they act.</h3>
+<h3 align="center">I work where offensive security meets AI,<br/>and I build AI agents that ask before they act.</h3>
 
 <br/>
 
-<img src="./assets/terminal.svg" width="100%" alt="whoami: final-year BSc Computer Science at the University of Hertfordshire. Focus: agent security, prompt injection, tool permissions, adversarial robustness, AI control and evals. First-author adversarial-ML paper, HTB CPTS, #1 global TraceBash CTF 2026. Incoming SWE intern at Qualcomm; looking for AI security research." />
+<img src="./assets/terminal.svg" width="100%" alt="whoami: final-year BSc Computer Science at the University of Hertfordshire. Focus: agent security, prompt injection, tool permissions, adversarial robustness, AI control and evals. First-author adversarial-ML paper, HTB CPTS, #1 global TraceBash CTF 2026. Working on UofT AI Project X; looking for AI security research." />
 
 ## By the numbers
 
 <table>
   <tr>
-    <td align="center" width="33%"><h2>#1</h2>globally at <b>TraceBash CTF 2026</b><br/><sub>plus #2 RIFFHACK, 1st BushBash (ANU)</sub></td>
-    <td align="center" width="33%"><h2>10 / 10</h2>forged or out-of-scope agent mandates <b>refused</b><br/><sub>Steward red-team, passkey-signed mandates</sub></td>
-    <td align="center" width="33%"><h2>487,523</h2>URLs in <b>MultiPhishDB</b><br/><sub>six script families, bilingual labels, κ = 0.91</sub></td>
+    <td align="center" width="33%" colspan="2"><h2>#1</h2>globally at <b>TraceBash CTF 2026</b><br/><sub>plus #2 RIFFHACK, 1st BushBash (ANU)</sub></td>
+    <td align="center" width="33%" colspan="2"><h2>487,523</h2>URLs in <b>MultiPhishDB</b><br/><sub>six script families, bilingual labels, κ = 0.91</sub></td>
+    <td align="center" width="33%" colspan="2"><h2>350 ms</h2>end-to-end <b>voice agent</b>, 7 languages<br/><sub>Whisper + LLaMA 3.2 + Piper, under 2¢ a minute</sub></td>
   </tr>
   <tr>
-    <td align="center"><h2>350 ms</h2>end-to-end <b>voice agent</b>, 7 languages<br/><sub>Whisper + LLaMA 3.2 + Piper, under 2¢ a minute</sub></td>
-    <td align="center"><h2>0 → ~10k</h2>users at V1 launch<br/><sub>tech lead at Colcord, multi-tenant Postgres with RLS</sub></td>
-    <td align="center"><h2>45+</h2><b>hackathons and CTFs</b><br/><sub>HackMIT, Junction, OxHack, Meta, London × AI Science</sub></td>
+    <td align="center" width="50%" colspan="3"><h2>0 → ~10k</h2>users at V1 launch<br/><sub>tech lead, multi-tenant Postgres with RLS</sub></td>
+    <td align="center" width="50%" colspan="3"><h2>45+</h2><b>hackathons and CTFs</b><br/><sub>HackMIT, Junction, OxHack, Meta, London × AI Science</sub></td>
   </tr>
 </table>
 
@@ -152,7 +149,6 @@
 
 | | Role | When |
 |---|---|---|
-| **Qualcomm** | Software Developer Intern · *incoming* | Jan – Jun 2027 |
 | **VoiceDots** | AI Voice Agent Developer: production GenAI voice agents (ASR → LLM → TTS over WebRTC) | Jul – Sep 2026 |
 | **Ericsson** | Software Engineer Intern, Infrastructure & Network Security | May – Jul 2026 |
 | **Colcord** | Full Stack Developer & Tech Lead: owned V1 from zero to ~10,000 users | Jul 2025 – Jan 2026 |

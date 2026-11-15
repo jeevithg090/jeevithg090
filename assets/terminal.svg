@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
   <title id="t">whoami</title>
-  <desc id="d">Final-year BSc Computer Science at the University of Hertfordshire. Focus: agent security, prompt injection, tool permissions, adversarial robustness, AI control and evals. First-author adversarial-ML paper (IEEE TIFS manuscript), HTB CPTS, #1 global TraceBash CTF 2026. Incoming software developer intern at Qualcomm (January 2027); looking for AI security research.</desc>
+  <desc id="d">Final-year BSc Computer Science at the University of Hertfordshire. Focus: agent security, prompt injection, tool permissions, adversarial robustness, AI control and evals. First-author adversarial-ML paper (IEEE TIFS manuscript), HTB CPTS, #1 global TraceBash CTF 2026. Working on UofT AI Project X; looking for AI security research.</desc>
   <style>
     .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     .p{fill:#2dd4bf}.c{fill:#f8fafc}.o{fill:#94a3b8}.h{fill:#5eead4}.a{fill:#fbbf24}
@@ -32,7 +32,7 @@
     <!-- 4 -->
     <text class="show" x="36" y="312" style="animation-delay:4.1s"><tspan class="p">jeevith ~ $ </tspan><tspan class="c">cat now.txt</tspan></text>
     <rect class="type" x="156" y="296" width="130" height="22" fill="#0d1117" style="animation-delay:4.2s"/>
-    <text class="show o" x="36" y="342" style="animation-delay:5s">incoming SWE intern @ Qualcomm (Jan 2027) · UofT AI Project X · looking for AI security research</text>
+    <text class="show o" x="36" y="342" style="animation-delay:5s">final year at Hertfordshire · UofT AI Project X (2026–27) · looking for AI security research</text>
     <!-- 5 -->
     <g class="show" style="animation-delay:5.4s">
       <text x="36" y="380"><tspan class="p">jeevith ~ $ </tspan></text>

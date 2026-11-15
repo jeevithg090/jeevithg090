@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
   <title id="t">Jeevith Gangadhara</title>
-  <desc id="d">AI security, adversarial ML and LLM agents. The model proposes; code and humans decide.</desc>
+  <desc id="d">AI security, adversarial AI and LLM agents. The model proposes; code and humans decide.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#05080f"/>
@@ -64,9 +64,9 @@
       <text x="828" y="256">homoglyph: flagged</text>
     </g>
     <!-- text -->
-    <text class="mono rise d1" x="72" y="74" font-size="15" letter-spacing="3" fill="#5eead4" fill-opacity=".85">OFFENSIVE SECURITY × MACHINE LEARNING</text>
+    <text class="mono rise d1" x="72" y="74" font-size="15" letter-spacing="3" fill="#5eead4" fill-opacity=".85">OFFENSIVE SECURITY × AI</text>
     <text class="sans rise d2" x="70" y="152" font-size="62" font-weight="700" fill="url(#name)" letter-spacing="-1">Jeevith Gangadhara</text>
-    <text class="sans rise d3" x="72" y="198" font-size="24" fill="#99f6e4">AI security · adversarial ML · LLM agents</text>
+    <text class="sans rise d3" x="72" y="198" font-size="24" fill="#99f6e4">AI security · adversarial AI · LLM agents</text>
     <g class="rise d4">
       <text class="mono" x="72" y="258" font-size="18" fill="#94a3b8"><tspan fill="#2dd4bf">❯</tspan> the model proposes. code and humans decide.</text>
       <rect class="cursor" x="563" y="243" width="10" height="20" fill="#5eead4"/>
