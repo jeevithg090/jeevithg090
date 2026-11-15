@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
+  <title id="t">whoami</title>
+  <desc id="d">Final-year BSc Computer Science at the University of Hertfordshire. Focus: agent security, prompt injection, tool permissions, adversarial robustness, AI control and evals. First-author adversarial-ML paper (IEEE TIFS manuscript), HTB CPTS, #1 global TraceBash CTF 2026. Incoming software developer intern at Qualcomm (January 2027); looking for AI security research.</desc>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+    .p{fill:#2dd4bf}.c{fill:#f8fafc}.o{fill:#94a3b8}.h{fill:#5eead4}.a{fill:#fbbf24}
+    .type{transform-box:fill-box;transform-origin:right center;animation:type .7s steps(14) both}
+    .show{animation:show .45s ease-out both}
+    .cursor{animation:blink 1.1s steps(1) infinite}
+    @keyframes type{from{transform:scaleX(1)}to{transform:scaleX(0)}}
+    @keyframes show{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <rect x=".5" y=".5" width="1199" height="399" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M14 .5H1186A13.5 13.5 0 0 1 1199.5 14V40.5H.5V14A13.5 13.5 0 0 1 14 .5Z" fill="#161b22"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/><circle cx="46" cy="21" r="6" fill="#ffbd2e"/><circle cx="66" cy="21" r="6" fill="#27c93f"/>
+  <text class="mono" x="600" y="26" font-size="13" fill="#8b949e" text-anchor="middle">jeevith@london: ~</text>
+  <g class="mono" font-size="17">
+    <!-- 1 -->
+    <text x="36" y="84"><tspan class="p">jeevith ~ $ </tspan><tspan class="c">whoami</tspan></text>
+    <rect class="type" x="156" y="68" width="80" height="22" fill="#0d1117" style="animation-delay:.3s"/>
+    <text class="show o" x="36" y="114" style="animation-delay:1.1s">Jeevith Gangadhara · final-year BSc Computer Science · University of Hertfordshire, UK</text>
+    <!-- 2 -->
+    <text class="show" x="36" y="160" style="animation-delay:1.5s"><tspan class="p">jeevith ~ $ </tspan><tspan class="c">cat focus.txt</tspan></text>
+    <rect class="type" x="156" y="144" width="150" height="22" fill="#0d1117" style="animation-delay:1.6s"/>
+    <text class="show h" x="36" y="190" style="animation-delay:2.4s">agent security · prompt injection · tool permissions · adversarial robustness · AI control · evals</text>
+    <!-- 3 -->
+    <text class="show" x="36" y="236" style="animation-delay:2.8s"><tspan class="p">jeevith ~ $ </tspan><tspan class="c">ls ./proof</tspan></text>
+    <rect class="type" x="156" y="220" width="120" height="22" fill="#0d1117" style="animation-delay:2.9s"/>
+    <text class="show a" x="36" y="266" xml:space="preserve" style="animation-delay:3.7s">first-author-adversarial-ML-paper/   htb-cpts/   tracebash-ctf-2026--1st-global/   45+-hackathons-and-ctfs/</text>
+    <!-- 4 -->
+    <text class="show" x="36" y="312" style="animation-delay:4.1s"><tspan class="p">jeevith ~ $ </tspan><tspan class="c">cat now.txt</tspan></text>
+    <rect class="type" x="156" y="296" width="130" height="22" fill="#0d1117" style="animation-delay:4.2s"/>
+    <text class="show o" x="36" y="342" style="animation-delay:5s">incoming SWE intern @ Qualcomm (Jan 2027) · UofT AI Project X · looking for AI security research</text>
+    <!-- 5 -->
+    <g class="show" style="animation-delay:5.4s">
+      <text x="36" y="380"><tspan class="p">jeevith ~ $ </tspan></text>
+      <rect class="cursor" x="160" y="366" width="10" height="19" fill="#5eead4"/>
+    </g>
+  </g>
+</svg>
