@@ -34,7 +34,7 @@
 ## Activity
 
 <a href="https://github.com/jeevithg090">
-  <img src="https://ghchart.rshah.org/14b8a6/jeevithg090" width="100%" alt="GitHub contribution calendar for the last year, updated live" />
+  <img src="https://ghchart.rshah.org/jeevithg090" width="100%" alt="GitHub contribution calendar for the last year, updated live" />
 </a>
 
 <p align="center">
